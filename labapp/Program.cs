@@ -10,6 +10,11 @@ namespace labapp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("1. Dodaj liczby");
+            Console.WriteLine("2. Odejmij liczby");
+            Console.WriteLine("3. * liczby");
+            Console.WriteLine("4. Dziel liczby");
+            Console.WriteLine("5. Wyjscie");
         }
     }
 }
