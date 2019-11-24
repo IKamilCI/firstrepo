@@ -23,6 +23,13 @@ namespace labapp
                 int a = Convert.ToInt32(Console.ReadLine());
 
 
+<<<<<<< HEAD
+=======
+                int menuOption = Convert.ToInt32(Console.ReadLine());
+
+                if (menuOption == 5)
+                    break;
+>>>>>>> dcc2935... Exit option is now implemented
             }
 
         }
